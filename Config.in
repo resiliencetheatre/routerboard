@@ -1,0 +1,2 @@
+source "$BR2_EXTERNAL_communit_PATH/package/libnitrokey/Config.in"
+source "$BR2_EXTERNAL_communit_PATH/package/nkmacsec/Config.in"
